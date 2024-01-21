@@ -1,0 +1,1 @@
+Digit Recognition Analysis: A project utilizing PCA, LDA, Linear Regression, Lasso Regression, and KNN for analyzing and classifying digits in the MNIST dataset. This project explores techniques for processing and classifying handwritten digits, offering insights into image analysis and numerical pattern recognition methods.
